@@ -139,7 +139,7 @@ function renderModals() {
                 </button>
                 <a
                   class="btn btn-primary"
-                  href='./projs/${val.name}/index.html'"
+                  href='./${val.url}/index.html'"
                   target="_blank"
                 >
                   <i class="fa fa-hand-pointer-o"></i>
