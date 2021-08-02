@@ -137,6 +137,14 @@ function renderModals() {
                   <i class="fa fa-times"></i>
                   Close Project
                 </button>
+                <a
+                  class="btn btn-primary"
+                  href='./projs/${val.name}/index.html'"
+                  target="_blank"
+                >
+                  <i class="fa fa-hand-pointer-o"></i>
+                  redirect to project
+                </a>
               </div>
             </div>
           </div>
