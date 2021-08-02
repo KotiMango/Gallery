@@ -1,0 +1,12 @@
+.option {
+  padding-top: 2px;
+  justify-content: space-between;
+  background-color: maroon;
+  border-radius: 32px;
+  display: inline;
+  color: white;
+}
+* {
+  background-color: teal;
+  height: 100%;
+}
