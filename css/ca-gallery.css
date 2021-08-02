@@ -752,9 +752,9 @@ fieldset[disabled] .btn-primary:hover {
 .btn-xl.active,
 .btn-xl:active,
 .open > .btn-xl.dropdown-toggle {
-  color: white;
-  border-color: #f6bf01;
-  background-color: #fec503;
+  color: #e3acf6;
+  border-color: whitesmoke;
+  background-color: white;
 }
 .btn-xl.active.focus,
 .btn-xl.active:focus,
@@ -765,9 +765,9 @@ fieldset[disabled] .btn-primary:hover {
 .open > .btn-xl.dropdown-toggle.focus,
 .open > .btn-xl.dropdown-toggle:focus,
 .open > .btn-xl.dropdown-toggle:hover {
-  color: white;
-  border-color: #b48b01;
-  background-color: #dcab01;
+  color: #e3acf6;
+  border-color: whitesmoke;
+  background-color: white;
 }
 .btn-xl.active,
 .btn-xl:active,
