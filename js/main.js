@@ -10,8 +10,8 @@ var gProjDB = [
     labels: ['Matrices', 'Mouse Events'],
   },
   {
-    id: 'inPicture',
-    name: 'inPicture',
+    id: 'InPicture',
+    name: 'InPicture',
     title: 'What lies inside of the picture ',
     desc:
       'Answer your knowings related to picture that has being shown ',
