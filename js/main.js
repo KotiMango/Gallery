@@ -71,7 +71,7 @@ function renderProjs() {
       </div>
       <img
         class="img-thumbnail img-fluid"
-        src="img/portfolio/0${idx + 1}-thumbnail.jpg"
+        src="./img/portfolio/0${idx + 1}-thumbnail.jpg"
         alt=""
       />
     </a>
@@ -116,7 +116,7 @@ function renderModals() {
                 </p>
                 <img
                   class="img-fluid d-block mx-auto"
-                  src="img/portfolio/0${idx + 1}-thumbnail.jpg"
+                  src="./img/portfolio/0${idx + 1}-thumbnail.jpg"
                   alt=""
                 />
                 <p>
